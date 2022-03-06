@@ -18,17 +18,17 @@ Link to the `proposal.md` file where it is the description of the persona and sc
 
 **Frontend / layout**
 * Is the text (plot labels / titles / subtitles) easy to read? 
-* Are the plots selected appropiated for the data? Can you think in other alternatives or improvements for the plots regarfing interactivity/reactivity or plot selection?
+* Are the plots selected appropiated for the data? Can you think of other alternatives or improvements for the plots regarding interactivity/reactivity or plot selection?
 * Was the dashboard organized in a way that was easy to read (columns / rows) or you would suggest a change in this sense?
-* Would you prefer including tabs / navbars to improve the navegation or you think it is fine in one screen?
-* Are the plots or other images described properly for the to the persona described?
+* Would you prefer including tabs / navbars to improve the navigation or you think it is better to visualize everything in one screen by the nature of the content?
+* Are the plots or other images described properly for the persona described?
 
 **Backend**
-* Are the options that you can select in the widgets working fine or you found an option that is not working?
+* Are the options that you can select in the widgets working fine or have you found some cases where it is not working?
 * If there are interactive plots: are the labels clear and easy to understand?
 
 **Documentation**
-* Was the documentation easy to understand from the `README.md` how to use the app? How the documentation could be improved?
+* Was the documentation easy to understand from the `README.md` how to use the app? How could the documentation be improved?
 * Was the app intuitive to use without reading the documentation? What information could be good to include? 
 
-**Point something you would like to include in your own app after reviewing this one**
+**Indicate something you would like to include in your own app after reviewing this one**
