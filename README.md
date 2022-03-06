@@ -3,13 +3,13 @@
 1. Open an issue with the name of your group and app
 Use this template:
 
-
+---
 ### To complete by the group
-Name of the app:
-Link to the repo in milestone2:
-Link to the `proposal.md` file where it is the description of the persona and scenario:
+* Name of the app:  
+* Link to the repo in milestone2:  
+* Link to the `proposal.md` file where it is the description of the persona and scenario:  
 
-
+---
 
 2. Review the group that is one number ahead of yours group number. For example, if you are group 5, review group 6. If you are group 30, review group 1.
 Paste your answers in the issue of the group assigned.
@@ -37,3 +37,5 @@ Paste your answers in the issue of the group assigned.
 * Was the app intuitive to use without reading the documentation? What information could be good to include? 
 
 **Indicate something you would like to include in your own app after reviewing this one**
+
+---
