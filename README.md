@@ -11,7 +11,7 @@ Use this template:
 
 ---
 
-2. Review the group that is one number ahead of yours group number. For example, if you are group 5, review group 6. If you are group 30, review group 1.
+2. Review the group that is one number ahead of your group's number. For example, if you are group 5, review group 6. If you are group 30, review group 1.
 Paste your answers in the issue of the group assigned.
 
 ---
