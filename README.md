@@ -2,14 +2,19 @@
 
 1. Open an issue with the name of your group and app
 Use this template:
-2. Review the group that is one number more your group. For example, if you are group 5, review group 6. If you are group 30, review group 1.
 
----
+
 ### To complete by the group
 Name of the app:
 Link to the repo in milestone2:
 Link to the `proposal.md` file where it is the description of the persona and scenario:
 
+
+
+2. Review the group that is one number ahead of yours group number. For example, if you are group 5, review group 6. If you are group 30, review group 1.
+Paste your answers in the issue of the group assigned.
+
+---
 ### To complete by the group reviewing:
 
 **Persona**
