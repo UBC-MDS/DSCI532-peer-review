@@ -1,6 +1,6 @@
 # DSCI532-peer-review
 
-1. Open an issue with the name of your group and app
+1. Open an issue with the name of your group and app. 
 Use this template:
 
 ---
